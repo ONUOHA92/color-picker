@@ -1,0 +1,2 @@
+# color-picker
+#this is a color game picker with is built with pure javaScript
